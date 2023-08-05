@@ -7,45 +7,44 @@
 
 // REACT
 
-// const heading = React.createElement("h1", {
-//     id : "title",
-//     className : "header",
-//     style : {
-//         color: "red",
-//         background: "green"
-//     }
-// }, "Hello Everyone...");
-// console.log(heading)
-// const root = ReactDOM.createRoot(document.getElementById("root"));
+const heading = React.createElement("h1", {
+    id : "title",
+    className : "header",
+    style : {
+        color: "red",
+        background: "green"
+    }
+}, "Hello Everyone...");
+console.log(heading)
+const root1 = ReactDOM.createRoot(document.getElementById("root"));
 
-// root.render(heading);
+root1.render(heading);
 
 
+const heading1 = React.createElement("h1", {
+    id : "title",
+    style : {
+        color: "red"
+    }
+}, "RED");
 
-// const heading1 = React.createElement("h1", {
-//     id : "title",
-//     style : {
-//         color: "red"
-//     }
-// }, "RED");
+const heading2 = React.createElement("h2", {
+    id : "title",
+    style : {
+        color: "blue"
+    }
+}, "BLUE");
 
-// const heading2 = React.createElement("h2", {
-//     id : "title",
-//     style : {
-//         color: "blue"
-//     }
-// }, "BLUE");
+const container = React.createElement("div", {
+    id: "container",
+    style: {
+        background: "cyan"
+    }
+}, 
+[heading1, heading2]
+)
 
-// const container = React.createElement("div", {
-//     id: "container",
-//     style: {
-//         background: "cyan"
-//     }
-// }, 
-// [heading1, heading2]
-// )
+const root2 = ReactDOM.createRoot(document.getElementById("root"));
 
-// const root = ReactDOM.createRoot(document.getElementById("root"));
-
-// root.render(container);
+root2.render(container);
 
