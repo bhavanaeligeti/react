@@ -1,0 +1,19 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "Learning react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavanaeligeti/react.git"
+  },
+  "author": "Bhavana Eligeti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavanaeligeti/react/issues"
+  },
+  "homepage": "https://github.com/bhavanaeligeti/react#readme"
+}
