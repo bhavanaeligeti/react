@@ -1,0 +1,6 @@
+# node artifacts
+node_modules/
+dist/
+
+# parcel 
+.parcel-cache
