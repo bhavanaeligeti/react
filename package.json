@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Learning React ",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -21,6 +23,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "babel-plugin-transform-remove-console": "^6.9.4",
     "process": "^0.11.10"
   },
   "browserslist": [

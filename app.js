@@ -73,14 +73,16 @@ const heading1 = React.createElement("h1", {
     id : "title",
     style : {
         color: "red"
-    }
+    },
+    key : "h1"
 }, "RED");
 
 const heading2 = React.createElement("h2", {
     id : "title",
     style : {
         color: "blue"
-    }
+    },
+    key : "h2"
 }, "BLUE");
 
 const container = React.createElement("div", {
