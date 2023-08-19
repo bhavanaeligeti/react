@@ -55,45 +55,42 @@
 import React from "react";
 import ReactDOM  from "react-dom/client";
 
+// React Element
+
 // const heading = React.createElement("h1", {
-//     id : "title",
-//     className : "header",
-//     style : {
-//         color: "red",
-//         background: "green"
-//     }
+//     id : "title"
 // }, "Hello Everyone...");
-// console.log(heading)
-// const root1 = ReactDOM.createRoot(document.getElementById("root"));
 
-// root1.render(heading);
+// JSX
 
+// const heading = (
+//     <h1 key = "h1">
+//         Hello Everyone....
+//     </h1>
+// );
 
-const heading1 = React.createElement("h1", {
-    id : "title",
-    style : {
-        color: "red"
-    },
-    key : "h1"
-}, "RED");
+// React Component
 
-const heading2 = React.createElement("h2", {
-    id : "title",
-    style : {
-        color: "blue"
-    },
-    key : "h2"
-}, "BLUE");
+const Title = () => (
+    <h1>React</h1>
+);
 
-const container = React.createElement("div", {
-    id: "container",
-    style: {
-        background: "yellow"
-    }
-}, 
-[heading1, heading2]
-)
+var x = 10;
 
-const root2 = ReactDOM.createRoot(document.getElementById("root"));
+const HeaderComponent = () => {
+    return (
+        <div>
+            {/* {heading} */}
+            {/* <Title /> */}
+            {Title ()}
+            {x} 
+            <h2>Get Started..</h2>
+            <p>React is a free and open-source front-end JavaScript library for 
+            building user interfaces based on components. </p>
+        </div>
+    );
+}
 
-root2.render(container);
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+root.render(<HeaderComponent />);
