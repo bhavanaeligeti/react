@@ -1,0 +1,721 @@
+                {
+                    "info": {
+                      "id": "23758",
+                      "name": "McDonald's",
+                      "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+                      "locality": "M G Road",
+                      "areaName": "Kurla",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Burgers",
+                        "Beverages",
+                        "Cafe",
+                        "Desserts"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {
+                        "restaurantId": "23758",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 3500
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 3500
+                      },
+                      "parentId": "630",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 26,
+                        "lastMileTravel": 1.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "26 mins",
+                        "lastMileTravelString": "1.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-08-24 02:45:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "textExtendedBadges": [
+                          {
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available",
+                            "fontColor": "#7E808C"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "",
+                                  "fontColor": "#7E808C",
+                                  "iconId": "guiltfree/GF_Logo_android_3x",
+                                  "shortDescription": "options available"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "40% OFF",
+                        "subHeader": "UPTO ₹80"
+                      },
+                      "loyaltyDiscoverPresentationInfo": {
+                        "logoCtx": {
+                          "text": "BENEFITS",
+                          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                        },
+                        "freedelMessage": "FREE DELIVERY"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      }
+                    },
+                    "analytics": {
+                      
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/mcdonalds-m-g-road-kurla-mumbai-23758",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "47610",
+                      "name": "Theobroma",
+                      "cloudinaryImageId": "f4p7f3klf2wka2db9rwc",
+                      "locality": "VN Purav Marg",
+                      "areaName": "Chembur",
+                      "costForTwo": "₹800 for two",
+                      "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                      ],
+                      "avgRating": 4.5,
+                      "feeDetails": {
+                        "restaurantId": "47610",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 5100
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 5100
+                      },
+                      "parentId": "1040",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 29,
+                        "lastMileTravel": 3.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "29 mins",
+                        "lastMileTravelString": "3.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-08-24 00:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Gourmet",
+                                  "imageId": "newg.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "loyaltyDiscoverPresentationInfo": {
+                        "logoCtx": {
+                          "text": "BENEFITS",
+                          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                        },
+                        "freedelMessage": "FREE DELIVERY"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      }
+                    },
+                    "analytics": {
+                      
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/theobroma-vn-purav-marg-chembur-mumbai-47610",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "31987",
+                      "name": "Natural Ice Cream",
+                      "cloudinaryImageId": "c19lnmlrlslwmupolnoz",
+                      "locality": "Near Ghatkopar Station",
+                      "areaName": "Ghatkopar East",
+                      "costForTwo": "₹150 for two",
+                      "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                      ],
+                      "avgRating": 4.7,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "31987",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 4600
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 4600
+                      },
+                      "parentId": "2093",
+                      "avgRatingString": "4.7",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 35,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-08-23 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "loyaltyDiscoverPresentationInfo": {
+                        "logoCtx": {
+                          "text": "BENEFITS",
+                          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                        },
+                        "freedelMessage": "FREE DELIVERY"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      }
+                    },
+                    "analytics": {
+                      
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/natural-ice-cream-near-ghatkopar-station-ghatkopar-east-mumbai-31987",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "246432",
+                      "name": "Baskin Robbins - Ice Cream Desserts",
+                      "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+                      "locality": "Ghatkopar",
+                      "areaName": "Ghatkopar East",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                      ],
+                      "avgRating": 4.4,
+                      "veg": true,
+                      "feeDetails": {
+                        "restaurantId": "246432",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 4600
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 4600
+                      },
+                      "parentId": "5588",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 34,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "34 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-08-24 04:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "loyaltyDiscoverPresentationInfo": {
+                        "logoCtx": {
+                          "text": "BENEFITS",
+                          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                        },
+                        "freedelMessage": "FREE DELIVERY"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      }
+                    },
+                    "analytics": {
+                      
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-ghatkopar-ghatkopar-east-mumbai-246432",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "243138",
+                      "name": "Oven Story Pizza",
+                      "cloudinaryImageId": "b3bbdfabc4c38d7732cfb29f8fba352e",
+                      "locality": "Behind R City Mall",
+                      "areaName": "Ghatkopar West",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Pizzas",
+                        "Pastas",
+                        "Italian",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 3.9,
+                      "feeDetails": {
+                        "restaurantId": "243138",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 5100
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 5100
+                      },
+                      "parentId": "3534",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "1K+",
+                      "sla": {
+                        "deliveryTime": 34,
+                        "lastMileTravel": 4.1,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "29-39 mins",
+                        "lastMileTravelString": "4.1 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-08-24 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "loyaltyDiscoverPresentationInfo": {
+                        "logoCtx": {
+                          "text": "BENEFITS",
+                          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                        },
+                        "freedelMessage": "FREE DELIVERY"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      }
+                    },
+                    "analytics": {
+                      
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/oven-story-pizza-behind-r-city-mall-ghatkopar-west-mumbai-243138",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "19972",
+                      "name": "Burger King",
+                      "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                      "locality": "Rcity",
+                      "areaName": "Ghatkopar West",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": [
+                        "Burgers",
+                        "American"
+                      ],
+                      "avgRating": 4,
+                      "feeDetails": {
+                        "restaurantId": "19972",
+                        "fees": [
+                          {
+                            "name": "BASE_DISTANCE",
+                            "fee": 4600
+                          },
+                          {
+                            "name": "BASE_TIME"
+                          },
+                          {
+                            "name": "ANCILLARY_SURGE_FEE"
+                          }
+                        ],
+                        "totalFee": 4600
+                      },
+                      "parentId": "166",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "10K+",
+                      "sla": {
+                        "deliveryTime": 60,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "60 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2023-08-24 02:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "loyaltyDiscoverPresentationInfo": {
+                        "logoCtx": {
+                          "text": "BENEFITS",
+                          "logo": "v1634558776/swiggy_one/OneLogo_3x.png"
+                        },
+                        "freedelMessage": "FREE DELIVERY"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      }
+                    },
+                    "analytics": {
+                      
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/restaurants/burger-king-rcity-ghatkopar-west-mumbai-19972",
+                      "type": "WEBLINK"
+                    }
+                  },
+  

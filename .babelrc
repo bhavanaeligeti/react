@@ -1,7 +1,7 @@
 // exclude - An array of console methods to exclude from removal.
 
 {
-    "plugins": [ ["transform-remove-console", 
-    { "exclude": [ "error", "warn"] }] ]
+    // "plugins": [ ["transform-remove-console", 
+    // { "exclude": [ "error", "warn"] }] ]
 }
 
